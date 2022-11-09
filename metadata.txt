@@ -1,0 +1,10 @@
+;FFMETADATA1
+major_brand=mp42
+minor_version=0
+compatible_brands=mp41isom
+composer=Sacha Goedegebure
+comment=Creative Commons Attribution 3.0 - http://bbb3d.renderfarming.net
+genre=Animation
+artist=Blender Foundation 2008, Janus Bager Kristensen 2013
+title=Big Buck Bunny, Sunflower version
+encoder=Lavf59.34.101
